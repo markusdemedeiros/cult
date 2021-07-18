@@ -1,4 +1,4 @@
-# **✨ Cult of the Bound Variable ✨ Universal Computing Machine Emulator**
+# **✨ Cult of the Bound Variable ✨** Universal Computing Machine Emulator
 
 A Rust implementation of the [2006 ICFP programming contest](http://www.boundvariable.org/task.shtml) CPU. 
 
